@@ -33,7 +33,7 @@ if typeof(copyfunction) == "function" then
 end
 
 local SaveManager = {} do
-    SaveManager.Folder = "ObsidianLibSettings"
+    SaveManager.Folder = "HBPsetting"
     SaveManager.SubFolder = ""
     SaveManager.Ignore = {}
     SaveManager.Library = nil
